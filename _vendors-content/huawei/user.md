@@ -1,4 +1,4 @@
----
+546447---
 manufacturer:
     - huawei
 
